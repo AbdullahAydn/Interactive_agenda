@@ -40,6 +40,7 @@ The program will also alert you when a scheduled activity is starting or about t
 
 ![Flowchart](Flowchart.PNG)
 
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
