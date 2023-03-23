@@ -38,6 +38,7 @@ no
 to leave it as "undone".
 The program will also alert you when a scheduled activity is starting or about to end (if it's still "undone").
 
+![Flowchart](Interactive_Agenda_Flowchart.PNG)
 
 ## Contributing
 
