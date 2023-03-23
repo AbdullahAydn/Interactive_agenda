@@ -2,9 +2,6 @@
 
 This program is an interactive agenda designed to help individuals with Alzheimer's keep track of their daily activities. It displays the scheduled activity at an exact time and prompts the user to mark it as "done" or "undone". The program also alerts the user 10 minutes before a scheduled activity ends (if it's still "undone").
 
-![Flowchart]([image_url](https://github.com/AbdullahAydn/Interactive_agenda/blob/1d8fcd7760a9c94ca22f2a519d109e7f8e879ba5/Flowchart.PNG))
-
-
 ## Installation
 
 Clone the repository using git clone https://github.com/AbdullahAydn/Interactive_agenda.git
@@ -40,6 +37,8 @@ no
 ``` 
 to leave it as "undone".
 The program will also alert you when a scheduled activity is starting or about to end (if it's still "undone").
+
+![Flowchart](Flowchart.PNG)
 
 ## Contributing
 
